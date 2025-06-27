@@ -13,7 +13,7 @@ Tier 1 Analyst.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/KuriMandara1984/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -57,5 +57,5 @@ Tier 1 Analyst.
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/KuriMandara1984/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
